@@ -19,7 +19,7 @@ p{ /*Fonte do Google Fonts*/
     font-style: normal;
 }
 
-.index_h{
+.index_h{ /*Cor de index*/
     color: rgb(255, 255, 255);
     
 }
@@ -80,7 +80,7 @@ footer {  /*uso de flexbox*/
     font-style: normal;
 }
 
-button{
+button{ /*Botões gerais*/
     background-color: blue;
     color: rgb(255, 255, 255);
     cursor: pointer;
