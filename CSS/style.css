@@ -47,7 +47,7 @@ body{ /*imagem de fundo*/
     width: 800px;
     padding: 20px;
     border: 5px solid blue;
-    box-sizing: border-box; /* Ensure padding is included in the width and height */
+    box-sizing: border-box; /* This is to nsure padding is included in the width and height */
 }
 
 a,a:hover,a:visited,a:active{ /*edição dos links do sumário*/
