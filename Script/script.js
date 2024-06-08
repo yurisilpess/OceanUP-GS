@@ -1,3 +1,5 @@
+// Funções para abrir modal C1 - C10
+
 function openC1(){
     const modal = document.querySelector("#C1") 
     modal.style.display="block";
