@@ -20,7 +20,7 @@
     margin-bottom: 4%;
 }
 
-.div_button{
+.div_button{ /*Configuração dos botões gerais*/
     text-align: center;
 }
 
@@ -73,7 +73,7 @@
     font-size: 200%;
 }
 
-#C1{
+#C1{ /*Curiosidades*/
     display: flex;
     position: fixed;
     top:50%;
